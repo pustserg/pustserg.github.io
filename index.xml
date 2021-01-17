@@ -12,7 +12,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://pustserg.github.io/cv/</guid>
-      <description>Hello</description>
+      <description>Ключевые навыки ruby, ruby on rails, hanami, sinatra, sidekiq, postgresql, mongo, kafka, rabbitmq, protobuf
+О себе Люблю и умею делать удобные для пользователей вещи. Писать тестируемый и легко изменяемый код. Делать сложные вещи проще, а мир лучше.
+Опыт работы  Рокетбанк 2017-2021
+ Принимал участие в разработке API мобильной версии, ядра банковской системы. Закрывал важные части работы банка, такие как закрытия счетов, жизненный цикл депозитов, начисление процентов на остаток и прочее.</description>
     </item>
     
   </channel>
